@@ -1,0 +1,60 @@
+body {
+    background: black;
+    margin: 0;
+}
+.Post-header {
+    background: white;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+h2, p {
+    margin: 0;
+}
+.iconosup {
+    display: flex;
+    align-items: center; /* Alinear iconos y texto verticalmente */
+}
+.iconos {
+    display: flex;
+    justify-content: space-between;
+}
+.fa-html5 {
+    margin-right: 10px; /* Espacio entre icono de HTML5 y texto */
+}
+.Post {
+    background: white;
+    margin: 10px;
+}
+.Post img {
+    width: 100%;
+    height: 300px;
+}
+.Post h2, .Post p {
+    padding: 10px;
+}
+.container {
+    width: 600px;
+    margin: auto;
+}
+
+.htmlicono {
+    font-size: 40px;
+}
+
+.iconofooter {
+    font-size: 20px;
+}
+
+.iconopoints {
+    font-size: 25px;
+}
+
+
+
+
+
+
+
