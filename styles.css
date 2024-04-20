@@ -11,7 +11,7 @@ body {
     padding: 0 10px;
 }
 h2, p {
-    margin: 0;
+    margin: 5px;
 }
 .iconosup {
     display: flex;
@@ -33,9 +33,14 @@ h2, p {
     width: 100%;
     height: 300px;
 }
-.Post h2, .Post p {
-    padding: 10px;
-    display:flexbox;
+.Post h2 {
+    padding: 1%;
+    margin: 1px;
+}
+.Post p {
+    padding: 2%;
+    margin: 1px;
+    
 }
 .container {
     width: 600px;
