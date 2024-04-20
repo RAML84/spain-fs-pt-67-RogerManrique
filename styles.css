@@ -4,7 +4,7 @@ body {
 }
 .Post-header {
     background: white;
-    height: 80px;
+    height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -20,6 +20,7 @@ h2, p {
 .iconos {
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 .fa-html5 {
     margin-right: 10px; /* Espacio entre icono de HTML5 y texto */
@@ -34,6 +35,7 @@ h2, p {
 }
 .Post h2, .Post p {
     padding: 10px;
+    display:flexbox;
 }
 .container {
     width: 600px;
